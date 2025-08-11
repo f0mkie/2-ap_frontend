@@ -3,15 +3,16 @@ body{
     padding: 0;
 
 }
+
 header, footer{
         width:100%;
     background-color: darksalmon;
 }
-}
+
 header{
     height:15vh; 
 }
 
 footer{
-    height: 5hv;
+    height: 5vh;
 }
